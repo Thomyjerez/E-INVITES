@@ -20,11 +20,3 @@ Una aplicación web de invitación de bodas premium, interactiva y completamente
 * **Estilos:** [Tailwind CSS](https://tailwindcss.com/)
 * **Animaciones:** [Framer Motion](https://www.framer.com/motion/) para transiciones de páginas, acordeones y el sobre interactivo.
 * **Iconografía:** Google Material Symbols.
-
-## Instalación y Uso
-
-Para correr este proyecto localmente en tu máquina:
-
-1. Cloná el repositorio:
-   ```bash
-   git clone [https://github.com/TU-USUARIO/nombre-del-repo.git](https://github.com/TU-USUARIO/nombre-del-repo.git)
